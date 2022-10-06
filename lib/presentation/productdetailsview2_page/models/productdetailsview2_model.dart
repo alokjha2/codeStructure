@@ -1,0 +1,1 @@
+class Productdetailsview2Model {}

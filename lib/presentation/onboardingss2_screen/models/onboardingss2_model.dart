@@ -1,0 +1,1 @@
+class Onboardingss2Model {}

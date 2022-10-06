@@ -1,0 +1,16 @@
+<svg width="32" height="472" viewBox="0 0 32 472" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.6665 16.0003C3.6665 25.2497 6.7505 28.3337 15.9998 28.3337C25.2492 28.3337 28.3332 25.2497 28.3332 16.0003C28.3332 6.75099 25.2492 3.66699 15.9998 3.66699C6.7505 3.66699 3.6665 6.75099 3.6665 16.0003Z" fill="#0065FF"/>
+<path d="M11.2539 16.0004L14.4192 19.1644L20.7472 12.8364" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.6665 120C3.6665 129.25 6.7505 132.334 15.9998 132.334C25.2492 132.334 28.3332 129.25 28.3332 120C28.3332 110.751 25.2492 107.667 15.9998 107.667C6.7505 107.667 3.6665 110.751 3.6665 120Z" fill="#0065FF"/>
+<path d="M11.2539 120L14.4192 123.164L20.7472 116.836" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.6665 248C3.6665 257.25 6.7505 260.334 15.9998 260.334C25.2492 260.334 28.3332 257.25 28.3332 248C28.3332 238.751 25.2492 235.667 15.9998 235.667C6.7505 235.667 3.6665 238.751 3.6665 248Z" fill="#0065FF"/>
+<path d="M11.2539 248L14.4192 251.164L20.7472 244.836" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.6665 352C3.6665 361.25 6.7505 364.334 15.9998 364.334C25.2492 364.334 28.3332 361.25 28.3332 352C28.3332 342.751 25.2492 339.667 15.9998 339.667C6.7505 339.667 3.6665 342.751 3.6665 352Z" fill="#0065FF"/>
+<path d="M11.2539 352L14.4192 355.164L20.7472 348.836" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.6665 456C3.6665 465.25 6.7505 468.334 15.9998 468.334C25.2492 468.334 28.3332 465.25 28.3332 456C28.3332 446.751 25.2492 443.667 15.9998 443.667C6.7505 443.667 3.6665 446.751 3.6665 456Z" stroke="#8E9AAB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.2539 456L14.4192 459.164L20.7472 452.836" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14" y="40" width="2" height="56" rx="1" fill="#E5E5E5"/>
+<rect x="14" y="272" width="2" height="56" rx="1" fill="#E5E5E5"/>
+<rect x="14" y="376" width="2" height="56" rx="1" fill="#E5E5E5"/>
+<rect x="14" y="144" width="2" height="80" rx="1" fill="#E5E5E5"/>
+</svg>
